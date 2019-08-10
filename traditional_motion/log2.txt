@@ -1,0 +1,1814 @@
+lap_video_list[i].shape (301, 136, 240, 3)
+filter_tensor.shape (301, 136, 240, 3)
+sums 0
+is i:  0  j:  0
+sums 0
+is i:  0  j:  1
+sums 0
+is i:  0  j:  2
+sums 0
+is i:  0  j:  3
+sums 0
+is i:  0  j:  4
+sums 0
+is i:  0  j:  5
+sums 0
+is i:  0  j:  6
+sums 0
+is i:  0  j:  7
+sums 0
+is i:  0  j:  8
+sums 0
+is i:  0  j:  9
+sums 0
+is i:  0  j:  10
+sums 0
+is i:  0  j:  11
+sums 0
+is i:  0  j:  12
+sums 0
+is i:  0  j:  13
+sums 0
+is i:  0  j:  14
+sums 0
+is i:  0  j:  15
+sums 0
+is i:  0  j:  16
+sums 0
+is i:  0  j:  17
+sums 0
+is i:  0  j:  18
+sums 0
+is i:  0  j:  19
+sums 0
+is i:  0  j:  20
+sums 0
+is i:  0  j:  21
+sums 0
+is i:  0  j:  22
+sums 0
+is i:  0  j:  23
+sums 0
+is i:  0  j:  24
+sums 0
+is i:  0  j:  25
+sums 0
+is i:  0  j:  26
+sums 0
+is i:  0  j:  27
+sums 0
+is i:  0  j:  28
+sums 0
+is i:  0  j:  29
+sums 0
+is i:  0  j:  30
+sums 0
+is i:  0  j:  31
+sums 0
+is i:  0  j:  32
+sums 0
+is i:  0  j:  33
+sums 0
+is i:  0  j:  34
+sums 0
+is i:  0  j:  35
+sums 0
+is i:  0  j:  36
+sums 0
+is i:  0  j:  37
+sums 0
+is i:  0  j:  38
+sums 0
+is i:  0  j:  39
+sums 0
+is i:  0  j:  40
+sums 0
+is i:  0  j:  41
+sums 0
+is i:  0  j:  42
+sums 0
+is i:  0  j:  43
+sums 0
+is i:  0  j:  44
+sums 0
+is i:  0  j:  45
+sums 0
+is i:  0  j:  46
+sums 0
+is i:  0  j:  47
+sums 0
+is i:  0  j:  48
+sums 0
+is i:  0  j:  49
+sums 0
+is i:  0  j:  50
+sums 0
+is i:  0  j:  51
+sums 0
+is i:  0  j:  52
+sums 0
+is i:  0  j:  53
+sums 0
+is i:  0  j:  54
+sums 0
+is i:  0  j:  55
+sums 0
+is i:  0  j:  56
+sums 0
+is i:  0  j:  57
+sums 0
+is i:  0  j:  58
+sums 0
+is i:  0  j:  59
+sums 0
+is i:  0  j:  60
+sums 0
+is i:  0  j:  61
+sums 0
+is i:  0  j:  62
+sums 0
+is i:  0  j:  63
+sums 0
+is i:  0  j:  64
+sums 0
+is i:  0  j:  65
+sums 0
+is i:  0  j:  66
+sums 0
+is i:  0  j:  67
+sums 0
+is i:  0  j:  68
+sums 0
+is i:  0  j:  69
+sums 0
+is i:  0  j:  70
+sums 0
+is i:  0  j:  71
+sums 0
+is i:  0  j:  72
+sums 0
+is i:  0  j:  73
+sums 0
+is i:  0  j:  74
+sums 0
+is i:  0  j:  75
+sums 0
+is i:  0  j:  76
+sums 0
+is i:  0  j:  77
+sums 0
+is i:  0  j:  78
+sums 0
+is i:  0  j:  79
+sums 0
+is i:  0  j:  80
+sums 0
+is i:  0  j:  81
+sums 0
+is i:  0  j:  82
+sums 0
+is i:  0  j:  83
+sums 0
+is i:  0  j:  84
+sums 0
+is i:  0  j:  85
+sums 0
+is i:  0  j:  86
+sums 0
+is i:  0  j:  87
+sums 0
+is i:  0  j:  88
+sums 0
+is i:  0  j:  89
+sums 0
+is i:  0  j:  90
+sums 0
+is i:  0  j:  91
+sums 0
+is i:  0  j:  92
+sums 0
+is i:  0  j:  93
+sums 0
+is i:  0  j:  94
+sums 0
+is i:  0  j:  95
+sums 0
+is i:  0  j:  96
+sums 0
+is i:  0  j:  97
+sums 0
+is i:  0  j:  98
+sums 0
+is i:  0  j:  99
+sums 0
+is i:  0  j:  100
+sums 0
+is i:  0  j:  101
+sums 0
+is i:  0  j:  102
+sums 0
+is i:  0  j:  103
+sums 0
+is i:  0  j:  104
+sums 0
+is i:  0  j:  105
+sums 0
+is i:  0  j:  106
+sums 0
+is i:  0  j:  107
+sums 0
+is i:  0  j:  108
+sums 0
+is i:  0  j:  109
+sums 0
+is i:  0  j:  110
+sums 0
+is i:  0  j:  111
+sums 0
+is i:  0  j:  112
+sums 0
+is i:  0  j:  113
+sums 0
+is i:  0  j:  114
+sums 0
+is i:  0  j:  115
+sums 0
+is i:  0  j:  116
+sums 0
+is i:  0  j:  117
+sums 0
+is i:  0  j:  118
+sums 0
+is i:  0  j:  119
+sums 0
+is i:  0  j:  120
+sums 0
+is i:  0  j:  121
+sums 0
+is i:  0  j:  122
+sums 0
+is i:  0  j:  123
+sums 0
+is i:  0  j:  124
+sums 0
+is i:  0  j:  125
+sums 0
+is i:  0  j:  126
+sums 0
+is i:  0  j:  127
+sums 0
+is i:  0  j:  128
+sums 0
+is i:  0  j:  129
+sums 0
+is i:  0  j:  130
+sums 0
+is i:  0  j:  131
+sums 0
+is i:  0  j:  132
+sums 0
+is i:  0  j:  133
+sums 0
+is i:  0  j:  134
+sums 0
+is i:  0  j:  135
+sums 0
+is i:  0  j:  136
+sums 0
+is i:  0  j:  137
+sums 0
+is i:  0  j:  138
+sums 0
+is i:  0  j:  139
+sums 0
+is i:  0  j:  140
+sums 0
+is i:  0  j:  141
+sums 0
+is i:  0  j:  142
+sums 0
+is i:  0  j:  143
+sums 0
+is i:  0  j:  144
+sums 0
+is i:  0  j:  145
+sums 0
+is i:  0  j:  146
+sums 0
+is i:  0  j:  147
+sums 0
+is i:  0  j:  148
+sums 0
+is i:  0  j:  149
+sums 0
+is i:  0  j:  150
+sums 0
+is i:  0  j:  151
+sums 0
+is i:  0  j:  152
+sums 0
+is i:  0  j:  153
+sums 0
+is i:  0  j:  154
+sums 0
+is i:  0  j:  155
+sums 0
+is i:  0  j:  156
+sums 0
+is i:  0  j:  157
+sums 0
+is i:  0  j:  158
+sums 0
+is i:  0  j:  159
+sums 0
+is i:  0  j:  160
+sums 0
+is i:  0  j:  161
+sums 0
+is i:  0  j:  162
+sums 0
+is i:  0  j:  163
+sums 0
+is i:  0  j:  164
+sums 0
+is i:  0  j:  165
+sums 0
+is i:  0  j:  166
+sums 0
+is i:  0  j:  167
+sums 0
+is i:  0  j:  168
+sums 0
+is i:  0  j:  169
+sums 0
+is i:  0  j:  170
+sums 0
+is i:  0  j:  171
+sums 0
+is i:  0  j:  172
+sums 0
+is i:  0  j:  173
+sums 0
+is i:  0  j:  174
+sums 0
+is i:  0  j:  175
+sums 0
+is i:  0  j:  176
+sums 0
+is i:  0  j:  177
+sums 0
+is i:  0  j:  178
+sums 0
+is i:  0  j:  179
+sums 0
+is i:  0  j:  180
+sums 0
+is i:  0  j:  181
+sums 0
+is i:  0  j:  182
+sums 0
+is i:  0  j:  183
+sums 0
+is i:  0  j:  184
+sums 0
+is i:  0  j:  185
+sums 0
+is i:  0  j:  186
+sums 0
+is i:  0  j:  187
+sums 0
+is i:  0  j:  188
+sums 0
+is i:  0  j:  189
+sums 0
+is i:  0  j:  190
+sums 0
+is i:  0  j:  191
+sums 0
+is i:  0  j:  192
+sums 0
+is i:  0  j:  193
+sums 0
+is i:  0  j:  194
+sums 0
+is i:  0  j:  195
+sums 0
+is i:  0  j:  196
+sums 0
+is i:  0  j:  197
+sums 0
+is i:  0  j:  198
+sums 0
+is i:  0  j:  199
+sums 0
+is i:  0  j:  200
+sums 0
+is i:  0  j:  201
+sums 0
+is i:  0  j:  202
+sums 0
+is i:  0  j:  203
+sums 0
+is i:  0  j:  204
+sums 0
+is i:  0  j:  205
+sums 0
+is i:  0  j:  206
+sums 0
+is i:  0  j:  207
+sums 0
+is i:  0  j:  208
+sums 0
+is i:  0  j:  209
+sums 0
+is i:  0  j:  210
+sums 0
+is i:  0  j:  211
+sums 0
+is i:  0  j:  212
+sums 0
+is i:  0  j:  213
+sums 0
+is i:  0  j:  214
+sums 0
+is i:  0  j:  215
+sums 0
+is i:  0  j:  216
+sums 0
+is i:  0  j:  217
+sums 0
+is i:  0  j:  218
+sums 0
+is i:  0  j:  219
+sums 0
+is i:  0  j:  220
+sums 0
+is i:  0  j:  221
+sums 0
+is i:  0  j:  222
+sums 0
+is i:  0  j:  223
+sums 0
+is i:  0  j:  224
+sums 0
+is i:  0  j:  225
+sums 0
+is i:  0  j:  226
+sums 0
+is i:  0  j:  227
+sums 0
+is i:  0  j:  228
+sums 0
+is i:  0  j:  229
+sums 0
+is i:  0  j:  230
+sums 0
+is i:  0  j:  231
+sums 0
+is i:  0  j:  232
+sums 0
+is i:  0  j:  233
+sums 0
+is i:  0  j:  234
+sums 0
+is i:  0  j:  235
+sums 0
+is i:  0  j:  236
+sums 0
+is i:  0  j:  237
+sums 0
+is i:  0  j:  238
+sums 0
+is i:  0  j:  239
+sums 0
+is i:  0  j:  240
+sums 0
+is i:  0  j:  241
+sums 0
+is i:  0  j:  242
+sums 0
+is i:  0  j:  243
+sums 0
+is i:  0  j:  244
+sums 0
+is i:  0  j:  245
+sums 0
+is i:  0  j:  246
+sums 0
+is i:  0  j:  247
+sums 0
+is i:  0  j:  248
+sums 0
+is i:  0  j:  249
+sums 0
+is i:  0  j:  250
+sums 0
+is i:  0  j:  251
+sums 0
+is i:  0  j:  252
+sums 0
+is i:  0  j:  253
+sums 0
+is i:  0  j:  254
+sums 0
+is i:  0  j:  255
+sums 0
+is i:  0  j:  256
+sums 0
+is i:  0  j:  257
+sums 0
+is i:  0  j:  258
+sums 0
+is i:  0  j:  259
+sums 0
+is i:  0  j:  260
+sums 0
+is i:  0  j:  261
+sums 0
+is i:  0  j:  262
+sums 0
+is i:  0  j:  263
+sums 0
+is i:  0  j:  264
+sums 0
+is i:  0  j:  265
+sums 0
+is i:  0  j:  266
+sums 0
+is i:  0  j:  267
+sums 0
+is i:  0  j:  268
+sums 0
+is i:  0  j:  269
+sums 0
+is i:  0  j:  270
+sums 0
+is i:  0  j:  271
+sums 0
+is i:  0  j:  272
+sums 0
+is i:  0  j:  273
+sums 0
+is i:  0  j:  274
+sums 0
+is i:  0  j:  275
+sums 0
+is i:  0  j:  276
+sums 0
+is i:  0  j:  277
+sums 0
+is i:  0  j:  278
+sums 0
+is i:  0  j:  279
+sums 0
+is i:  0  j:  280
+sums 0
+is i:  0  j:  281
+sums 0
+is i:  0  j:  282
+sums 0
+is i:  0  j:  283
+sums 0
+is i:  0  j:  284
+sums 0
+is i:  0  j:  285
+sums 0
+is i:  0  j:  286
+sums 0
+is i:  0  j:  287
+sums 0
+is i:  0  j:  288
+sums 0
+is i:  0  j:  289
+sums 0
+is i:  0  j:  290
+sums 0
+is i:  0  j:  291
+sums 0
+is i:  0  j:  292
+sums 0
+is i:  0  j:  293
+sums 0
+is i:  0  j:  294
+sums 0
+is i:  0  j:  295
+sums 0
+is i:  0  j:  296
+sums 0
+is i:  0  j:  297
+sums 0
+is i:  0  j:  298
+sums 0
+is i:  0  j:  299
+sums 0
+is i:  0  j:  300
+lap_video_list[i].shape (301, 272, 480, 3)
+filter_tensor.shape (301, 272, 480, 3)
+sums 0
+is i:  1  j:  0
+sums 0
+is i:  1  j:  1
+sums 0
+is i:  1  j:  2
+sums 0
+is i:  1  j:  3
+sums 0
+is i:  1  j:  4
+sums 0
+is i:  1  j:  5
+sums 0
+is i:  1  j:  6
+sums 0
+is i:  1  j:  7
+sums 0
+is i:  1  j:  8
+sums 0
+is i:  1  j:  9
+sums 0
+is i:  1  j:  10
+sums 0
+is i:  1  j:  11
+sums 0
+is i:  1  j:  12
+sums 0
+is i:  1  j:  13
+sums 0
+is i:  1  j:  14
+sums 0
+is i:  1  j:  15
+sums 0
+is i:  1  j:  16
+sums 0
+is i:  1  j:  17
+sums 0
+is i:  1  j:  18
+sums 0
+is i:  1  j:  19
+sums 0
+is i:  1  j:  20
+sums 0
+is i:  1  j:  21
+sums 0
+is i:  1  j:  22
+sums 0
+is i:  1  j:  23
+sums 0
+is i:  1  j:  24
+sums 0
+is i:  1  j:  25
+sums 0
+is i:  1  j:  26
+sums 0
+is i:  1  j:  27
+sums 0
+is i:  1  j:  28
+sums 0
+is i:  1  j:  29
+sums 0
+is i:  1  j:  30
+sums 0
+is i:  1  j:  31
+sums 0
+is i:  1  j:  32
+sums 0
+is i:  1  j:  33
+sums 0
+is i:  1  j:  34
+sums 0
+is i:  1  j:  35
+sums 0
+is i:  1  j:  36
+sums 0
+is i:  1  j:  37
+sums 0
+is i:  1  j:  38
+sums 0
+is i:  1  j:  39
+sums 0
+is i:  1  j:  40
+sums 0
+is i:  1  j:  41
+sums 0
+is i:  1  j:  42
+sums 0
+is i:  1  j:  43
+sums 0
+is i:  1  j:  44
+sums 0
+is i:  1  j:  45
+sums 0
+is i:  1  j:  46
+sums 0
+is i:  1  j:  47
+sums 0
+is i:  1  j:  48
+sums 0
+is i:  1  j:  49
+sums 0
+is i:  1  j:  50
+sums 0
+is i:  1  j:  51
+sums 0
+is i:  1  j:  52
+sums 0
+is i:  1  j:  53
+sums 0
+is i:  1  j:  54
+sums 0
+is i:  1  j:  55
+sums 0
+is i:  1  j:  56
+sums 0
+is i:  1  j:  57
+sums 0
+is i:  1  j:  58
+sums 0
+is i:  1  j:  59
+sums 0
+is i:  1  j:  60
+sums 0
+is i:  1  j:  61
+sums 0
+is i:  1  j:  62
+sums 0
+is i:  1  j:  63
+sums 0
+is i:  1  j:  64
+sums 0
+is i:  1  j:  65
+sums 0
+is i:  1  j:  66
+sums 0
+is i:  1  j:  67
+sums 0
+is i:  1  j:  68
+sums 0
+is i:  1  j:  69
+sums 0
+is i:  1  j:  70
+sums 0
+is i:  1  j:  71
+sums 0
+is i:  1  j:  72
+sums 0
+is i:  1  j:  73
+sums 0
+is i:  1  j:  74
+sums 0
+is i:  1  j:  75
+sums 0
+is i:  1  j:  76
+sums 0
+is i:  1  j:  77
+sums 0
+is i:  1  j:  78
+sums 0
+is i:  1  j:  79
+sums 0
+is i:  1  j:  80
+sums 0
+is i:  1  j:  81
+sums 0
+is i:  1  j:  82
+sums 0
+is i:  1  j:  83
+sums 0
+is i:  1  j:  84
+sums 0
+is i:  1  j:  85
+sums 0
+is i:  1  j:  86
+sums 0
+is i:  1  j:  87
+sums 0
+is i:  1  j:  88
+sums 0
+is i:  1  j:  89
+sums 0
+is i:  1  j:  90
+sums 0
+is i:  1  j:  91
+sums 0
+is i:  1  j:  92
+sums 0
+is i:  1  j:  93
+sums 0
+is i:  1  j:  94
+sums 0
+is i:  1  j:  95
+sums 0
+is i:  1  j:  96
+sums 0
+is i:  1  j:  97
+sums 0
+is i:  1  j:  98
+sums 0
+is i:  1  j:  99
+sums 0
+is i:  1  j:  100
+sums 0
+is i:  1  j:  101
+sums 0
+is i:  1  j:  102
+sums 0
+is i:  1  j:  103
+sums 0
+is i:  1  j:  104
+sums 0
+is i:  1  j:  105
+sums 0
+is i:  1  j:  106
+sums 0
+is i:  1  j:  107
+sums 0
+is i:  1  j:  108
+sums 0
+is i:  1  j:  109
+sums 0
+is i:  1  j:  110
+sums 0
+is i:  1  j:  111
+sums 0
+is i:  1  j:  112
+sums 0
+is i:  1  j:  113
+sums 0
+is i:  1  j:  114
+sums 0
+is i:  1  j:  115
+sums 0
+is i:  1  j:  116
+sums 0
+is i:  1  j:  117
+sums 0
+is i:  1  j:  118
+sums 0
+is i:  1  j:  119
+sums 0
+is i:  1  j:  120
+sums 0
+is i:  1  j:  121
+sums 0
+is i:  1  j:  122
+sums 0
+is i:  1  j:  123
+sums 0
+is i:  1  j:  124
+sums 0
+is i:  1  j:  125
+sums 0
+is i:  1  j:  126
+sums 0
+is i:  1  j:  127
+sums 0
+is i:  1  j:  128
+sums 0
+is i:  1  j:  129
+sums 0
+is i:  1  j:  130
+sums 0
+is i:  1  j:  131
+sums 0
+is i:  1  j:  132
+sums 0
+is i:  1  j:  133
+sums 0
+is i:  1  j:  134
+sums 0
+is i:  1  j:  135
+sums 0
+is i:  1  j:  136
+sums 0
+is i:  1  j:  137
+sums 0
+is i:  1  j:  138
+sums 0
+is i:  1  j:  139
+sums 0
+is i:  1  j:  140
+sums 0
+is i:  1  j:  141
+sums 0
+is i:  1  j:  142
+sums 0
+is i:  1  j:  143
+sums 0
+is i:  1  j:  144
+sums 0
+is i:  1  j:  145
+sums 0
+is i:  1  j:  146
+sums 0
+is i:  1  j:  147
+sums 0
+is i:  1  j:  148
+sums 0
+is i:  1  j:  149
+sums 0
+is i:  1  j:  150
+sums 0
+is i:  1  j:  151
+sums 0
+is i:  1  j:  152
+sums 0
+is i:  1  j:  153
+sums 0
+is i:  1  j:  154
+sums 0
+is i:  1  j:  155
+sums 0
+is i:  1  j:  156
+sums 0
+is i:  1  j:  157
+sums 0
+is i:  1  j:  158
+sums 0
+is i:  1  j:  159
+sums 0
+is i:  1  j:  160
+sums 0
+is i:  1  j:  161
+sums 0
+is i:  1  j:  162
+sums 0
+is i:  1  j:  163
+sums 0
+is i:  1  j:  164
+sums 0
+is i:  1  j:  165
+sums 0
+is i:  1  j:  166
+sums 0
+is i:  1  j:  167
+sums 0
+is i:  1  j:  168
+sums 0
+is i:  1  j:  169
+sums 0
+is i:  1  j:  170
+sums 0
+is i:  1  j:  171
+sums 0
+is i:  1  j:  172
+sums 0
+is i:  1  j:  173
+sums 0
+is i:  1  j:  174
+sums 0
+is i:  1  j:  175
+sums 0
+is i:  1  j:  176
+sums 0
+is i:  1  j:  177
+sums 0
+is i:  1  j:  178
+sums 0
+is i:  1  j:  179
+sums 0
+is i:  1  j:  180
+sums 0
+is i:  1  j:  181
+sums 0
+is i:  1  j:  182
+sums 0
+is i:  1  j:  183
+sums 0
+is i:  1  j:  184
+sums 0
+is i:  1  j:  185
+sums 0
+is i:  1  j:  186
+sums 0
+is i:  1  j:  187
+sums 0
+is i:  1  j:  188
+sums 0
+is i:  1  j:  189
+sums 0
+is i:  1  j:  190
+sums 0
+is i:  1  j:  191
+sums 0
+is i:  1  j:  192
+sums 0
+is i:  1  j:  193
+sums 0
+is i:  1  j:  194
+sums 0
+is i:  1  j:  195
+sums 0
+is i:  1  j:  196
+sums 0
+is i:  1  j:  197
+sums 0
+is i:  1  j:  198
+sums 0
+is i:  1  j:  199
+sums 0
+is i:  1  j:  200
+sums 0
+is i:  1  j:  201
+sums 0
+is i:  1  j:  202
+sums 0
+is i:  1  j:  203
+sums 0
+is i:  1  j:  204
+sums 0
+is i:  1  j:  205
+sums 0
+is i:  1  j:  206
+sums 0
+is i:  1  j:  207
+sums 0
+is i:  1  j:  208
+sums 0
+is i:  1  j:  209
+sums 0
+is i:  1  j:  210
+sums 0
+is i:  1  j:  211
+sums 0
+is i:  1  j:  212
+sums 0
+is i:  1  j:  213
+sums 0
+is i:  1  j:  214
+sums 0
+is i:  1  j:  215
+sums 0
+is i:  1  j:  216
+sums 0
+is i:  1  j:  217
+sums 0
+is i:  1  j:  218
+sums 0
+is i:  1  j:  219
+sums 0
+is i:  1  j:  220
+sums 0
+is i:  1  j:  221
+sums 0
+is i:  1  j:  222
+sums 0
+is i:  1  j:  223
+sums 0
+is i:  1  j:  224
+sums 0
+is i:  1  j:  225
+sums 0
+is i:  1  j:  226
+sums 0
+is i:  1  j:  227
+sums 0
+is i:  1  j:  228
+sums 0
+is i:  1  j:  229
+sums 0
+is i:  1  j:  230
+sums 0
+is i:  1  j:  231
+sums 0
+is i:  1  j:  232
+sums 0
+is i:  1  j:  233
+sums 0
+is i:  1  j:  234
+sums 0
+is i:  1  j:  235
+sums 0
+is i:  1  j:  236
+sums 0
+is i:  1  j:  237
+sums 0
+is i:  1  j:  238
+sums 0
+is i:  1  j:  239
+sums 0
+is i:  1  j:  240
+sums 0
+is i:  1  j:  241
+sums 0
+is i:  1  j:  242
+sums 0
+is i:  1  j:  243
+sums 0
+is i:  1  j:  244
+sums 0
+is i:  1  j:  245
+sums 0
+is i:  1  j:  246
+sums 0
+is i:  1  j:  247
+sums 0
+is i:  1  j:  248
+sums 0
+is i:  1  j:  249
+sums 0
+is i:  1  j:  250
+sums 0
+is i:  1  j:  251
+sums 0
+is i:  1  j:  252
+sums 0
+is i:  1  j:  253
+sums 0
+is i:  1  j:  254
+sums 0
+is i:  1  j:  255
+sums 0
+is i:  1  j:  256
+sums 0
+is i:  1  j:  257
+sums 0
+is i:  1  j:  258
+sums 0
+is i:  1  j:  259
+sums 0
+is i:  1  j:  260
+sums 0
+is i:  1  j:  261
+sums 0
+is i:  1  j:  262
+sums 0
+is i:  1  j:  263
+sums 0
+is i:  1  j:  264
+sums 0
+is i:  1  j:  265
+sums 0
+is i:  1  j:  266
+sums 0
+is i:  1  j:  267
+sums 0
+is i:  1  j:  268
+sums 0
+is i:  1  j:  269
+sums 0
+is i:  1  j:  270
+sums 0
+is i:  1  j:  271
+sums 0
+is i:  1  j:  272
+sums 0
+is i:  1  j:  273
+sums 0
+is i:  1  j:  274
+sums 0
+is i:  1  j:  275
+sums 0
+is i:  1  j:  276
+sums 0
+is i:  1  j:  277
+sums 0
+is i:  1  j:  278
+sums 0
+is i:  1  j:  279
+sums 0
+is i:  1  j:  280
+sums 0
+is i:  1  j:  281
+sums 0
+is i:  1  j:  282
+sums 0
+is i:  1  j:  283
+sums 0
+is i:  1  j:  284
+sums 0
+is i:  1  j:  285
+sums 0
+is i:  1  j:  286
+sums 0
+is i:  1  j:  287
+sums 0
+is i:  1  j:  288
+sums 0
+is i:  1  j:  289
+sums 0
+is i:  1  j:  290
+sums 0
+is i:  1  j:  291
+sums 0
+is i:  1  j:  292
+sums 0
+is i:  1  j:  293
+sums 0
+is i:  1  j:  294
+sums 0
+is i:  1  j:  295
+sums 0
+is i:  1  j:  296
+sums 0
+is i:  1  j:  297
+sums 0
+is i:  1  j:  298
+sums 0
+is i:  1  j:  299
+sums 0
+is i:  1  j:  300
+lap_video_list[i].shape (301, 544, 960, 3)
+filter_tensor.shape (301, 544, 960, 3)
+sums 0.04257573422199961
+is i:  2  j:  0
+sums 0.4581020403007619
+is i:  2  j:  1
+sums 2.4744780269449347
+is i:  2  j:  2
+sums 9.086933366036293
+is i:  2  j:  3
+sums 25.860902824437847
+is i:  2  j:  4
+sums 61.42158220237052
+is i:  2  j:  5
+sums 127.54981680656837
+is i:  2  j:  6
+sums 238.8748846524711
+is i:  2  j:  7
+sums 412.17752889528725
+is i:  2  j:  8
+sums 665.3408288951939
+is i:  2  j:  9
+sums 1016.0125421507973
+is i:  2  j:  10
+sums 1480.0509742329793
+is i:  2  j:  11
+sums 2069.8391984613068
+is i:  2  j:  12
+sums 2792.5714514210817
+is i:  2  j:  13
+sums 3648.6075448128395
+is i:  2  j:  14
+sums 4630.012639043257
+is i:  2  j:  15
+sums 5719.330764391894
+is i:  2  j:  16
+sums 6888.80048151563
+is i:  2  j:  17
+sums 8099.9682634987175
+is i:  2  j:  18
+sums 9303.785718088498
+is i:  2  j:  19
+sums 10441.317859132325
+is i:  2  j:  20
+sums 11445.093633552659
+is i:  2  j:  21
+sums 12241.024238079775
+is i:  2  j:  22
+sums 12750.804447018041
+is i:  2  j:  23
+sums 12895.718662590032
+is i:  2  j:  24
+sums 12601.114407333072
+is i:  2  j:  25
+sums 11801.73557165984
+is i:  2  j:  26
+sums 10451.437751193273
+is i:  2  j:  27
+sums 8539.465852866897
+is i:  2  j:  28
+sums 6120.290320263144
+is i:  2  j:  29
+sums 3475.401876576772
+is i:  2  j:  30
+sums 4696.417004566339
+is i:  2  j:  31
+sums 9309.90777275799
+is i:  2  j:  32
+sums 14811.851925696355
+is i:  2  j:  33
+sums 20967.363226936664
+is i:  2  j:  34
+sums 27625.736148470613
+is i:  2  j:  35
+sums 34634.160472264455
+is i:  2  j:  36
+sums 41819.67869315112
+is i:  2  j:  37
+sums 48987.95052220142
+is i:  2  j:  38
+sums 55925.82103608195
+is i:  2  j:  39
+sums 62403.95427761031
+is i:  2  j:  40
+sums 68184.3927738093
+is i:  2  j:  41
+sums 73023.46895099773
+is i:  2  j:  42
+sums 76679.29137664224
+is i:  2  j:  43
+sums 78923.28571201718
+is i:  2  j:  44
+sums 79547.27752361677
+is i:  2  j:  45
+sums 78372.19542580633
+is i:  2  j:  46
+sums 75259.1124363849
+is i:  2  j:  47
+sums 70126.51963506208
+is i:  2  j:  48
+sums 62973.875467467326
+is i:  2  j:  49
+sums 53890.41745411947
+is i:  2  j:  50
+sums 43120.978913884435
+is i:  2  j:  51
+sums 31218.430162968136
+is i:  2  j:  52
+sums 19983.659839700988
+is i:  2  j:  53
+sums 27110.623725588608
+is i:  2  j:  54
+sums 45060.19187974712
+is i:  2  j:  55
+sums 65505.15547357344
+is i:  2  j:  56
+sums 87327.45954168697
+is i:  2  j:  57
+sums 109861.11734639404
+is i:  2  j:  58
+sums 132520.71404289527
+is i:  2  j:  59
+sums 154738.55788930334
+is i:  2  j:  60
+sums 175942.24787082223
+is i:  2  j:  61
+sums 195552.44147107637
+is i:  2  j:  62
+sums 212996.23488231836
+is i:  2  j:  63
+sums 227722.35501343536
+is i:  2  j:  64
+sums 239213.6237932477
+is i:  2  j:  65
+sums 246996.84459743355
+is i:  2  j:  66
+sums 250653.58199439268
+is i:  2  j:  67
+sums 249854.6766539085
+is i:  2  j:  68
+sums 244345.90387739002
+is i:  2  j:  69
+sums 234002.81648726622
+is i:  2  j:  70
+sums 218837.39136948503
+is i:  2  j:  71
+sums 199008.90841467655
+is i:  2  j:  72
+sums 174873.18655621362
+is i:  2  j:  73
+sums 147049.40094472043
+is i:  2  j:  74
+sums 116560.39252184746
+is i:  2  j:  75
+sums 85420.09679906555
+is i:  2  j:  76
+sums 62167.971408233694
+is i:  2  j:  77
+sums 91032.63522866018
+is i:  2  j:  78
+sums 134236.67425612352
+is i:  2  j:  79
+sums 181573.511776707
+is i:  2  j:  80
+sums 230601.36858951344
+is i:  2  j:  81
+sums 279745.0773084183
+is i:  2  j:  82
+sums 327716.76573958865
+is i:  2  j:  83
+sums 373344.6802448207
+is i:  2  j:  84
+sums 415504.92321345967
+is i:  2  j:  85
+sums 453127.571109855
+is i:  2  j:  86
+sums 485226.898650226
+is i:  2  j:  87
+sums 510906.2024089559
+is i:  2  j:  88
+sums 529384.1159023317
+is i:  2  j:  89
+sums 539994.6657638595
+is i:  2  j:  90
+sums 542213.4626974178
+is i:  2  j:  91
+sums 535675.6479412946
+is i:  2  j:  92
+sums 520246.4811803815
+is i:  2  j:  93
+sums 496009.2043427649
+is i:  2  j:  94
+sums 463239.1236161236
+is i:  2  j:  95
+sums 422511.8503412353
+is i:  2  j:  96
+sums 374663.16614321375
+is i:  2  j:  97
+sums 320950.1831498937
+is i:  2  j:  98
+sums 263200.37044785137
+is i:  2  j:  99
+sums 204467.2613645136
+is i:  2  j:  100
+sums 152656.80258282917
+is i:  2  j:  101
+sums 169482.62868443478
+is i:  2  j:  102
+sums 238810.81304646155
+is i:  2  j:  103
+sums 317459.0686353241
+is i:  2  j:  104
+sums 399207.54679267295
+is i:  2  j:  105
+sums 480852.94157133583
+is i:  2  j:  106
+sums 560019.9011709298
+is i:  2  j:  107
+sums 634729.7689344482
+is i:  2  j:  108
+sums 703195.1567626141
+is i:  2  j:  109
+sums 763814.630258613
+is i:  2  j:  110
+sums 815201.7151851688
+is i:  2  j:  111
+sums 856109.3482861647
+is i:  2  j:  112
+sums 885480.2721453536
+is i:  2  j:  113
+sums 902457.228922071
+is i:  2  j:  114
+sums 906443.4199868559
+is i:  2  j:  115
+sums 897123.8951580115
+is i:  2  j:  116
+sums 874482.2177943998
+is i:  2  j:  117
+sums 838779.4285716313
+is i:  2  j:  118
+sums 790629.0072398295
+is i:  2  j:  119
+sums 730884.8622405925
+is i:  2  j:  120
+sums 660820.8979697813
+is i:  2  j:  121
+sums 582196.3401517842
+is i:  2  j:  122
+sums 497224.3367520236
+is i:  2  j:  123
+sums 409232.90500163357
+is i:  2  j:  124
+sums 323840.22114037676
+is i:  2  j:  125
+sums 260516.3723385021
+is i:  2  j:  126
+sums 316506.7398499116
+is i:  2  j:  127
+sums 416531.721993853
+is i:  2  j:  128
+sums 525822.8560677224
+is i:  2  j:  129
+sums 636951.6764755198
+is i:  2  j:  130
+sums 745820.3082424614
+is i:  2  j:  131
+sums 849344.1107237659
+is i:  2  j:  132
+sums 944932.0849209004
+is i:  2  j:  133
+sums 1030395.8323555436
+is i:  2  j:  134
+sums 1103849.1120895017
+is i:  2  j:  135
+sums 1163827.6012237668
+is i:  2  j:  136
+sums 1209012.6440458097
+is i:  2  j:  137
+sums 1238288.4590397854
+is i:  2  j:  138
+sums 1250990.821032933
+is i:  2  j:  139
+sums 1246775.0834547277
+is i:  2  j:  140
+sums 1225633.233796429
+is i:  2  j:  141
+sums 1187952.787287414
+is i:  2  j:  142
+sums 1134479.413164264
+is i:  2  j:  143
+sums 1066131.2983478133
+is i:  2  j:  144
+sums 984515.4361571077
+is i:  2  j:  145
+sums 891584.5622133691
+is i:  2  j:  146
+sums 789542.0235018263
+is i:  2  j:  147
+sums 681526.6797923745
+is i:  2  j:  148
+sums 571765.6571986587
+is i:  2  j:  149
+sums 467476.708275374
+is i:  2  j:  150
+sums 393615.4366629261
+is i:  2  j:  151
+sums 456524.78668604087
+is i:  2  j:  152
+sums 571489.5212378332
+is i:  2  j:  153
+sums 696846.1483512557
+is i:  2  j:  154
+sums 823489.7385751704
+is i:  2  j:  155
+sums 946476.3571734881
+is i:  2  j:  156
+sums 1062109.1523307667
+is i:  2  j:  157
+sums 1167602.3777083822
+is i:  2  j:  158
+sums 1260542.630530291
+is i:  2  j:  159
+sums 1339077.2209620161
+is i:  2  j:  160
+sums 1401759.8254159242
+is i:  2  j:  161
+sums 1447332.829734244
+is i:  2  j:  162
+sums 1474891.3234924092
+is i:  2  j:  163
+sums 1484030.8194916297
+is i:  2  j:  164
+sums 1474594.948176132
+is i:  2  j:  165
+sums 1446929.4471634983
+is i:  2  j:  166
+sums 1401640.62783805
+is i:  2  j:  167
+sums 1339644.150141974
+is i:  2  j:  168
+sums 1262396.3696387932
+is i:  2  j:  169
+sums 1171692.1680171485
+is i:  2  j:  170
+sums 1069649.5449649144
+is i:  2  j:  171
+sums 958914.9813545415
+is i:  2  j:  172
+sums 842723.2331903637
+is i:  2  j:  173
+sums 725405.1892605887
+is i:  2  j:  174
+sums 614015.9638606926
+is i:  2  j:  175
+sums 527169.0450473693
+is i:  2  j:  176
+sums 558738.1638333505
+is i:  2  j:  177
+sums 666114.3653535128
+is i:  2  j:  178
+sums 787686.6964695993
+is i:  2  j:  179
+sums 911334.5806233553
+is i:  2  j:  180
+sums 1031396.1595518138
+is i:  2  j:  181
+sums 1143979.1268228192
+is i:  2  j:  182
+sums 1246192.6758193749
+is i:  2  j:  183
+sums 1335851.8106410562
+is i:  2  j:  184
+sums 1411116.5597652076
+is i:  2  j:  185
+sums 1470826.0148246167
+is i:  2  j:  186
+sums 1513945.013169575
+is i:  2  j:  187
+sums 1539797.3171042548
+is i:  2  j:  188
+sums 1548084.8318127985
+is i:  2  j:  189
+sums 1538925.7957398929
+is i:  2  j:  190
+sums 1512496.0825844596
+is i:  2  j:  191
+sums 1469595.82700061
+is i:  2  j:  192
+sums 1411357.386667138
+is i:  2  j:  193
+sums 1339150.01880967
+is i:  2  j:  194
+sums 1254657.499393795
+is i:  2  j:  195
+sums 1159878.8458029612
+is i:  2  j:  196
+sums 1057275.0652625512
+is i:  2  j:  197
+sums 949739.7077024949
+is i:  2  j:  198
+sums 841102.0266778447
+is i:  2  j:  199
+sums 736590.3806638506
+is i:  2  j:  200
+sums 646816.0976034582
+is i:  2  j:  201
+sums 620215.5455087165
+is i:  2  j:  202
+sums 693069.3772662687
+is i:  2  j:  203
+sums 790682.2608114633
+is i:  2  j:  204
+sums 893407.0554732363
+is i:  2  j:  205
+sums 994225.5587473228
+is i:  2  j:  206
+sums 1089378.8967936265
+is i:  2  j:  207
+sums 1176092.3444680483
+is i:  2  j:  208
+sums 1252456.958120149
+is i:  2  j:  209
+sums 1316914.8777806314
+is i:  2  j:  210
+sums 1368518.9827846994
+is i:  2  j:  211
+sums 1406665.5907839125
+is i:  2  j:  212
+sums 1430839.6999479244
+is i:  2  j:  213
+sums 1440801.5084505554
+is i:  2  j:  214
+sums 1436407.9098684355
+is i:  2  j:  215
+sums 1418007.7693948352
+is i:  2  j:  216
+sums 1386375.4027522733
+is i:  2  j:  217
+sums 1342385.233432902
+is i:  2  j:  218
+sums 1287025.8153281354
+is i:  2  j:  219
+sums 1221682.965058687
+is i:  2  j:  220
+sums 1147908.9616960965
+is i:  2  j:  221
+sums 1067678.6316717789
+is i:  2  j:  222
+sums 983271.7567025488
+is i:  2  j:  223
+sums 897304.6682794294
+is i:  2  j:  224
+sums 813134.3396116751
+is i:  2  j:  225
+sums 735772.4057194296
+is i:  2  j:  226
+sums 677155.0039702926
+is i:  2  j:  227
+sums 679190.0837603988
+is i:  2  j:  228
+sums 733940.6746554752
+is i:  2  j:  229
+sums 801582.5123734138
+is i:  2  j:  230
+sums 871241.3764130329
+is i:  2  j:  231
+sums 938429.4690799568
+is i:  2  j:  232
+sums 1000565.2768572354
+is i:  2  j:  233
+sums 1056058.9077412777
+is i:  2  j:  234
+sums 1103663.2178432671
+is i:  2  j:  235
+sums 1142715.8497445486
+is i:  2  j:  236
+sums 1172920.8705803237
+is i:  2  j:  237
+sums 1194103.4283309027
+is i:  2  j:  238
+sums 1205959.434714325
+is i:  2  j:  239
+sums 1208290.8326850636
+is i:  2  j:  240
+sums 1201288.5919559535
+is i:  2  j:  241
+sums 1185363.6026710256
+is i:  2  j:  242
+sums 1161021.7505039838
+is i:  2  j:  243
+sums 1128906.5531762727
+is i:  2  j:  244
+sums 1089816.9894532482
+is i:  2  j:  245
+sums 1044902.8455488698
+is i:  2  j:  246
+sums 995353.9588158347
+is i:  2  j:  247
+sums 942684.7901923892
+is i:  2  j:  248
+sums 888227.8832643775
+is i:  2  j:  249
+sums 833549.1571466819
+is i:  2  j:  250
+sums 780963.5817855455
+is i:  2  j:  251
+sums 733280.7340850756
+is i:  2  j:  252
+sums 695519.7643546255
+is i:  2  j:  253
+sums 681111.5204132125
+is i:  2  j:  254
+sums 698093.3084716348
+is i:  2  j:  255
+sums 728333.4343149714
+is i:  2  j:  256
+sums 761942.6304774464
+is i:  2  j:  257
+sums 795111.5723603904
+is i:  2  j:  258
+sums 825879.8226782316
+is i:  2  j:  259
+sums 853268.5716560275
+is i:  2  j:  260
+sums 876563.2251661582
+is i:  2  j:  261
+sums 895525.5114462804
+is i:  2  j:  262
+sums 910160.4713091829
+is i:  2  j:  263
+sums 920808.5457934355
+is i:  2  j:  264
+sums 927555.4364146222
+is i:  2  j:  265
+sums 930167.556512878
+is i:  2  j:  266
+sums 928802.7722160431
+is i:  2  j:  267
+sums 923495.257418306
+is i:  2  j:  268
+sums 914453.0133188692
+is i:  2  j:  269
+sums 901902.097580022
+is i:  2  j:  270
+sums 886288.1790457135
+is i:  2  j:  271
+sums 868130.6618115427
+is i:  2  j:  272
+sums 848040.3077826629
+is i:  2  j:  273
+sums 826525.7788638202
+is i:  2  j:  274
+sums 804005.5382823474
+is i:  2  j:  275
+sums 781247.4673924152
+is i:  2  j:  276
+sums 758964.4032827172
+is i:  2  j:  277
+sums 737692.2391137561
+is i:  2  j:  278
+sums 718137.0545744038
+is i:  2  j:  279
+sums 700848.4662611159
+is i:  2  j:  280
+sums 686642.258198808
+is i:  2  j:  281
+sums 676533.7901947335
+is i:  2  j:  282
+sums 671700.5690179056
+is i:  2  j:  283
+sums 671828.1221167685
+is i:  2  j:  284
+sums 675259.3987772112
+is i:  2  j:  285
+sums 680111.0299814771
+is i:  2  j:  286
+sums 685364.9046735093
+is i:  2  j:  287
+sums 690406.606154856
+is i:  2  j:  288
+sums 694862.2498394356
+is i:  2  j:  289
+sums 698883.323829103
+is i:  2  j:  290
+sums 702574.4818513049
+is i:  2  j:  291
+sums 706101.5171602345
+is i:  2  j:  292
+sums 710033.8593307963
+is i:  2  j:  293
+sums 714758.9132174026
+is i:  2  j:  294
+sums 719924.4264609604
+is i:  2  j:  295
+sums 725191.2738849599
+is i:  2  j:  296
+sums 730166.0639668051
+is i:  2  j:  297
+sums 734802.2059696431
+is i:  2  j:  298
+sums 739123.5238737015
+is i:  2  j:  299
+sums 743047.7559575604
+is i:  2  j:  300
+filter_tensor_list[-1].shape (301, 544, 960, 3)
+filter_tensor_list[-1].shape (301, 544, 960, 3)
